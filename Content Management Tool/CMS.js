@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function(){
         var title = document.querySelector('#title').value;
         var description = document.querySelector('#description').value;
         var image = document.querySelector('#image').value;
-        var description = document.querySelector('#video').value;
+        var video = document.querySelector('#video').value;
 
         var contentList = document.querySelector('#contentList');
         contentList.innerHTML = `
