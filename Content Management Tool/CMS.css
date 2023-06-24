@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+}
+
+input[type="text"], textarea{
+    width: 60%;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+input[type="submit"] {
+    padding: 10px 20px;
+    background-color:#4CAF50;
+    color:#fff;
+    border:none;
+    cursor:pointer;
+    margin-top: 10px;
+}
+
+#contentList {
+    margin-top: 30px;
+}
+
+#contentList h1 {
+    margin-bottom: 10px;
+    font-size: 24px;
+}
+
+#contentList h2 {
+    margin-bottom: 5px;
+    font-size: 18px;
+}
+
+#contentList p {
+    margin-bottom: 10px;
+}
+
+#contentList img {
+    margin-bottom: 10px;
+    max-width:80%;
+}
+
